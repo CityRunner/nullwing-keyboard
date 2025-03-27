@@ -1,6 +1,10 @@
-# nullwing
+# Nullwing Keyboard
 
-Through hole mechanical keyboard with rotary encoder
+Nullwing is a DIY keyboard project designed for easy assembly and hand soldering.
+
+The PCB utilizes Choc Mini switches for a low-profile design. It is mounted using standoffs in a specially designed case for stability and secure placement. However, the case itself is not included or fully designed, so users will need to create or modify their own enclosure.
+
+The firmware is incomplete and unlikely to be finished, requiring users to develop or customize it themselves. This project is provided as is, with no ongoing support or updates. It’s best suited for those who enjoy experimenting with custom hardware and firmware development.
 
 # IMAGES
 
