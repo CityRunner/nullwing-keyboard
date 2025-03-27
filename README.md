@@ -2,12 +2,13 @@
 
 Nullwing is a DIY keyboard project designed for easy assembly and hand soldering.
 
-The PCB utilizes Choc Mini switches for a low-profile design. It is mounted using standoffs in a specially designed case for stability and secure placement. However, the case itself is not included or fully designed, so users will need to create or modify their own enclosure.
+This PCB utilizes Choc Mini switches for a low-profile design. It is mounted using standoffs in a specially designed case for stability and secure placement. However, the case itself is not fully implemented, so users will need to create their own enclosure.
 
-The firmware is incomplete and unlikely to be finished, requiring users to develop or customize it themselves. This project is provided as is, with no ongoing support or updates. It’s best suited for those who enjoy experimenting with custom hardware and firmware development.
+The firmware is incomplete too and unlikely to be finished, requiring users to develop or customize it themselves.
 
-# IMAGES
+This project is provided as is, with no ongoing support or updates. It’s best suited for those who enjoy experimenting with custom hardware and firmware development.
 
+# Images
 ![front](https://raw.githubusercontent.com/CityRunner/nullwing/main/img/front.png?raw=true)
 
 ![back](https://raw.githubusercontent.com/CityRunner/nullwing/main/img/back.png?raw=true)
